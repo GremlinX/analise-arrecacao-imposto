@@ -1,4 +1,4 @@
-# 📊 Análise de Arrecadação de Impostos Federais no Brasil (2010–2024)
+# 📊 Análise de Arrecadação de Impostos Federais no Brasil (2000–2024)
 
 Este repositório contém uma análise exploratória e descritiva dos dados de arrecadação de impostos federais no Brasil, abrangendo o período de 2010 a 2024. O estudo tem como objetivo identificar tendências, variações por estado e ano, e destacar os principais fatores que influenciaram a arrecadação federal durante esses anos.
 
